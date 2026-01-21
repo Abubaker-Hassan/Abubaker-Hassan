@@ -1,6 +1,6 @@
 # Hi, I’m Abubaker Hassan 👋
 
-📊 **Data Analyst | Power BI Developer | CDMP® Associate**
+📊 **CDMP® Associate | Data Analyst | Power BI Developer**
 
 I’m a data analyst passionate about transforming complex data into clear, interactive insights that support better business decisions. I enjoy building efficient data models, high-performance dashboards, and reliable analytics solutions using modern BI tools.
 
