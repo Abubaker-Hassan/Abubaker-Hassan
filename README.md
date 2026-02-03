@@ -60,7 +60,7 @@ University of Science & Applied Studies
 ---
 
 ## 📜 Certifications
-- **CDMP® Associate – Certified Data Management Professional** (DAMA International)
+- **CDMP® Associate – Certified Data Management Professional** (DAMA International®)
 - [**Explore CDMP® Certificate**](https://certificates.cdmp.info/e1bce9e4-f811-4a6d-9bc4-c24637655136#acc.D6NSyUvQ)
 
 ---
