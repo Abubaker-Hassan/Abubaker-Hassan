@@ -2,7 +2,7 @@
 
 📊 **Data Analyst | Power BI Developer | CDMP®**
 
-I’m a Data Analyst & Power BI Developer passionate about transforming complex data into clear, interactive insights that support better business decisions. I specialize in building efficient data models, high-performance Power BI dashboards, and reliable analytics solutions using modern BI tools.
+I’m a Data Analyst & Power BI Developer | CDMP® Certified, with a strong foundation in data governance, data quality, and KPI-driven reporting. Specializing in the end-to-end development of scalable business intelligence solutions and governed data architectures. I bridge the gap between complex raw data and executive-level decision-making by combining advanced Power BI development with rigorous Data Management principles.
 
 ---
 
