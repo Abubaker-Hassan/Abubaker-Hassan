@@ -74,7 +74,7 @@ University of Science & Applied Studies
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [Abubaker Hassan](https://www.linkedin.com/in/abubaker-hassan)
+- 💼 LinkedIn: [Abubaker Hassan](https://www.linkedin.com/in/abubaker-hassan-cdmp)
 - 🌐 GitHub: [Abubaker Hassan](https://www.github.com/abubakerhassan)
 
 ---
