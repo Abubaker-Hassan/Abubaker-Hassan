@@ -1,6 +1,6 @@
 # Hi, I’m Abubaker Hassan 👋
 
-📊 **Data Analyst | Power BI Developer | CDMP®**
+📊 **Data Analyst | Power BI Developer | SQL | DAX | Excel | CDMP®**
 
 I’m a Data Analyst & Power BI Developer | CDMP® Certified, with a strong foundation in data governance, data quality, and KPI-driven reporting. Specializing in the end-to-end development of scalable business intelligence solutions and governed data architectures. I bridge the gap between complex raw data and executive-level decision-making by combining advanced Power BI development with rigorous Data Management principles.
 
@@ -36,20 +36,8 @@ I’m a Data Analyst & Power BI Developer | CDMP® Certified, with a strong foun
 ---
 
 ## 📂 Featured Projects
-📊 [**Actual vs Budget Executive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZWZhNTYyZDktODM4MC00MjkzLThlY2ItZjYyZGJiYTljYTczIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-Power BI executive dashboard comparing actual vs budget income and expenses. Features variance analysis, budget utilization KPIs, project-level insights, and interactive filters to support financial monitoring and executive decision-making.
-
-📊 [**E-Commerce Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNGE4MjFiYWUtYzBjYi00YmQ5LWJkMWMtMjRkZGU4NTc4ODYwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-Interactive Power BI eCommerce dashboard analyzing sales, products, customers, and regional performance.
-
-📦 [**Logistics Performance Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTQ3MWVkZGMtNWI1MS00OTg4LWI0N2ItNWIxYzc0MTI0NmU5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-Logistics Performance Dashboard built in Power BI to analyze shipment operations, revenue trends, delivery efficiency, and regional performance. The dashboard provides interactive insights into shipment status, product categories, delivery times by geography, and sales performance to support data-driven logistics and operational decisions.
-
-🏠 [**Simple Real Estate Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzg0ZDZlODMtOWQ0YS00ZTBhLWIwN2ItMDU4MTBhODdhYWQwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-Interactive Power BI dashboard analyzing real estate sales, profit, and performance by location, property type, and time using DAX and data modeling.
-
-✈️ [**Travel Agency Performance Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZjMyNjQtMjE0Ni00ZWNkLTk3NWEtYzRlNGI0OGUyYTZkIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-interactive Power BI dashboard designed to analyze the operational and financial performance of a Travel Agency.
+📊 [**Finance Analysis Dashboard**]([https://app.powerbi.com/view?r=eyJrIjoiZWZhNTYyZDktODM4MC00MjkzLThlY2ItZjYyZGJiYTljYTczIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiNmNkY2ZiNGYtOTI4Yi00MjU3LTk0NWYtMmIzYzMzM2Q5N2Q5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9))
+Interactive Power BI Finance Analysis Dashboard for analyzing financial transactions, customer segments, transaction trends, fees, taxes, and regional performance using DAX, Power Query, and Star Schema modeling.
 
 ---
 
