@@ -36,7 +36,7 @@ I’m a Data Analyst & Power BI Developer | CDMP® Certified, with a strong foun
 ---
 
 ## 📂 Featured Projects
-📊 [**Finance Analysis Dashboard**]([https://app.powerbi.com/view?r=eyJrIjoiZWZhNTYyZDktODM4MC00MjkzLThlY2ItZjYyZGJiYTljYTczIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiNmNkY2ZiNGYtOTI4Yi00MjU3LTk0NWYtMmIzYzMzM2Q5N2Q5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9))
+📊 [**Finance Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMjI4Y2NlYzYtMzk4MS00MzFkLWI4YWEtOTA3ZTZhODM1MWU5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 Interactive Power BI Finance Analysis Dashboard for analyzing financial transactions, customer segments, transaction trends, fees, taxes, and regional performance using DAX, Power Query, and Star Schema modeling.
 
 ---
