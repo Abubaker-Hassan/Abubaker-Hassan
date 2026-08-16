@@ -39,6 +39,10 @@ I’m a Data Analyst & Power BI Developer | CDMP® Certified, with a strong foun
 📊 [**Finance Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMjI4Y2NlYzYtMzk4MS00MzFkLWI4YWEtOTA3ZTZhODM1MWU5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 Interactive Power BI Finance Analysis Dashboard for analyzing financial transactions, customer segments, transaction trends, fees, taxes, and regional performance using DAX, Power Query, and Star Schema modeling.
 
+📦 [**Logistics Performance Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYmRmOWRkODEtOGE1OC00NmY1LWJjOTUtMmNmNjg0YzUxMzA5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
+)
+Interactive Logistics Performance Dashboard built with Power BI to analyze revenue, shipment performance, delivery efficiency, regional performance, product categories, and salesperson activity through actionable business insights.
+
 ---
 
 ## 🎓 Education
