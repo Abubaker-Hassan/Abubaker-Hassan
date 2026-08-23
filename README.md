@@ -43,6 +43,9 @@ Interactive Power BI Finance Analysis Dashboard for analyzing financial transact
 )
 Interactive Logistics Performance Dashboard built with Power BI to analyze revenue, shipment performance, delivery efficiency, regional performance, product categories, and salesperson activity through actionable business insights.
 
+📊 [**Loan Default Risk Analysis**] (https://app.powerbi.com/view?r=eyJrIjoiZTAwZTg5Y2MtYzBhOC00ODZiLTljYmItZGZjOTVlOTU4NTI1IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+End-to-end credit risk analytics project analyzing loan defaults across credit score, DTI, loan purpose, and employment factors using MySQL, SQL, Excel, and Power BI.
+
 ---
 
 ## 🎓 Education
